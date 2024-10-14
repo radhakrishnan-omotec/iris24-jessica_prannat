@@ -1,0 +1,11 @@
+Medication_Name,Chemical_Composition,Dosage_Mg,Frequency_Per_Day,Possible_Side_Effects,Resistance_Patterns,Age_Group,Interaction_With_Other_Drugs,Prescription_Status,Formulation_Type
+Metformin,1-Dimethylbiguanide Hydrochloride,500,2,Gastrointestinal Disturbances,None,65+,Low,None,Tablet
+Glipizide,5-Methylpyrazinecarboxamide Sulfonylurea,5,1,Hypoglycemia,None,65+,Moderate,With Prescription,Tablet
+Pioglitazone,Thiazolidinedione,15,1,Weight Gain,Low Resistance,50-70,High,With Prescription,Tablet
+Insulin Lispro,Human Insulin Analogue,10,3,Low Blood Sugar,None,50+,Moderate,None,Injection
+Sitagliptin,Dipeptidyl Peptidase-4 Inhibitor,100,1,Joint Pain,None,65+,Low,None,Tablet
+Canagliflozin,Sodium-glucose Cotransporter-2 Inhibitor,100,1,Urinary Tract Infections,None,60+,High,With Prescription,Tablet
+Glyburide,Micronized Sulfonylurea,2.5,2,Hypoglycemia,None,65+,Moderate,None,Tablet
+Linagliptin,Dipeptidyl Peptidase-4 Inhibitor,5,1,Nasopharyngitis,None,55+,Low,None,Tablet
+Liraglutide,Glucagon-like Peptide-1 Agonist,1.2,1,Nausea,None,65+,Low,None,Injection
+Empagliflozin,Sodium-glucose Cotransporter-2 Inhibitor,10,1,Kidney Dysfunction,Low Resistance,60+,High,With Prescription,Tablet
